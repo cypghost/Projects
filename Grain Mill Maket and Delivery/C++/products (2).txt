@@ -1,0 +1,7 @@
+teff                50                  6         250       mesebo              
+boleke              50                  5         100       mesebo
+gebse               40                  9         300       mesebo
+sende               60                  6         400       mebrat              
+boleke              70                  6         300       mebrat
+ater Kik            50                  4         250       mebrat
+shiro               55                  8         500       mebrat              

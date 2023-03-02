@@ -1,0 +1,10 @@
+---------------------------------------------
+                ACTIVITY LOG
+---------------------------------------------
+Mon Aug 22 09:39:07 2022 New Student 12345 Registered.
+Mon Aug 22 09:39:07 2022 Student 12345 Logged in.
+Mon Aug 22 09:39:07 2022 Student 12345 Searched for book clean code.
+Mon Aug 22 09:39:07 2022 Student 12345 Requested to borrow book B0005.
+Mon Aug 22 09:39:07 2022 Student 12345 Recovered his/her Password.
+Mon Aug 22 09:39:07 2022 New Librarian 12345 added by Admin.
+Mon Aug 22 09:39:07 2022 Librarian 12345 Logged in.
